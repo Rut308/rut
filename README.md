@@ -1,0 +1,2 @@
+# rut
+Project pertama saya
